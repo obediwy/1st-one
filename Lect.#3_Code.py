@@ -1,5 +1,4 @@
 import numpy as np
-import sklearn
 import pandas as pd
 #%%
 from sklearn.impute import SimpleImputer
