@@ -1,1 +1,6 @@
 streamlit
+numpy
+sklearn
+pandas
+os
+matpolitlib
